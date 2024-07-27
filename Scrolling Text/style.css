@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    height: 100%;
+    width: 100%;
+}
+
+body{
+    background-color: #111;
+}
+
+#page1, #page2, #page3 {
+    height: 100%;
+    width: 100%;
+}
